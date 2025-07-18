@@ -1,3 +1,19 @@
+💫 Hi 👋, I'm Sameer Ojha
+A passionate AI-ML Developer || MERN Stack Developer || Data Science from India
+
+Email Me 👉 ✉️ ojhasameer24@gmail.com For Collaboration/Project or Anything Else. 😊😊
+
+🔭 I’m currently working on: AI-ML Development
+🌱 I’m currently learning: AI/ML and DL
+👯 I’m looking to collaborate on: "Learning AI/ML/DL Together" – A study-focused project to build small models (like spam detection, image classification, sentiment analysis) while understanding core AI/ML/DL concepts.
+🤔 I’m looking for help with: I’m a student exploring machine learning and deep learning. Looking for help understanding algorithms like linear regression, decision trees, CNNs, and transformers through hands-on projects.
+💬 Ask me about: Collaboration, Tech Support
+📫 How to reach me: ojhasameer24@gmail.com
+😄 Pronouns: Sameer 
+⚡ Fun fact: I Love Tech and Tech Love Me
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sameer172003&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sameer.ojha.17/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sameer-ojha-113956286/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ojhasameer24@gmail.com) 
@@ -8,9 +24,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Sameer172003&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sameer172003&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer172003&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sameer172003&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
