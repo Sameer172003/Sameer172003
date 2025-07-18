@@ -1,15 +1,23 @@
 💫 Hi 👋, I'm Sameer Ojha
+
 A passionate AI-ML Developer || MERN Stack Developer || Data Science from India
 
 Email Me 👉 ✉️ ojhasameer24@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
-🔭 I’m currently working on: AI-ML Development
-🌱 I’m currently learning: AI/ML and DL
+🔭 I’m currently working on: AI-ML Development.
+
+🌱 I’m currently learning: AI/ML and DL.
+
 👯 I’m looking to collaborate on: "Learning AI/ML/DL Together" – A study-focused project to build small models (like spam detection, image classification, sentiment analysis) while understanding core AI/ML/DL concepts.
+
 🤔 I’m looking for help with: I’m a student exploring machine learning and deep learning. Looking for help understanding algorithms like linear regression, decision trees, CNNs, and transformers through hands-on projects.
-💬 Ask me about: Collaboration, Tech Support
+
+💬 Ask me about: Collaboration, Tech Support.
+
 📫 How to reach me: ojhasameer24@gmail.com
+
 😄 Pronouns: Sameer 
+
 ⚡ Fun fact: I Love Tech and Tech Love Me
 
 ## 🏆 GitHub Trophies
