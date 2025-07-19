@@ -8,7 +8,7 @@
 </div>
 <br>
 
-Email Me 👉 ✉️ ojhasameer24@gmail.com For Collaboration/Project or Anything Else. 😊😊
+<h4>Email Me 👉 ✉️ ojhasameer24@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
 🔭 I’m currently working on: AI-ML Development.
 
@@ -24,7 +24,7 @@ Email Me 👉 ✉️ ojhasameer24@gmail.com For Collaboration/Project or Anythin
 
 😄 Pronouns: Sameer 
 
-⚡ Fun fact: I Love Tech and Tech Love Me
+⚡ Fun fact: I Love Tech and Tech Love Me</h4>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sameer172003&theme=radical&no-frame=false&no-bg=true&margin-w=4)
