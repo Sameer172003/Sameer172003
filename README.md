@@ -1,6 +1,12 @@
 💫 Hi 👋, I'm Sameer Ojha
 
-A passionate AI-ML Developer || MERN Stack Developer || Data Science from India
+A passionate AI-ML Developer || MERN Stack Developer || Data Science from India 
+
+<br>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdjZHd3dDJzbTJ0NGw2NTBvdXU0YTVnamp5dWxzc2E0YTliM2liYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="Snake animation" />
+</div>
+<br>
 
 Email Me 👉 ✉️ ojhasameer24@gmail.com For Collaboration/Project or Anything Else. 😊😊
 
