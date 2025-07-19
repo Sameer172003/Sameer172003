@@ -8,9 +8,8 @@
 </div>
 <br>
 
-<h4>Email Me 👉 ✉️ ojhasameer24@gmail.com For Collaboration/Project or Anything Else. 😊😊
-<br>
-
+<h4>
+  
 🔭 I’m currently working on: AI-ML Development.
 
 🌱 I’m currently learning: AI/ML and DL.
