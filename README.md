@@ -1,6 +1,6 @@
-💫 Hi 👋, I'm Sameer Ojha
+<h1>💫 Hi 👋, I'm Sameer Ojha </h1>
 
-A passionate AI-ML Developer || MERN Stack Developer || Data Science from India 
+<h3>A passionate AI-ML Developer || MERN Stack Developer || Data Science from India </h3>
 
 <br>
 <div align="center">
